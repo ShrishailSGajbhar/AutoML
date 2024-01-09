@@ -1,0 +1,6 @@
+# Use Conda env with Python 3.8
+streamlit
+plotly
+pycaret==3.0.4
+pandas_profiling==3.4.0
+streamlit_pandas_profiling
